@@ -1,0 +1,15 @@
+.background{
+ background-color:rgb(229,248,235, 0.2);
+}
+.row{
+  padding:60px;
+}
+
+.carousel-caption{
+  font-size:50px;
+}
+
+img{
+  height: 300px;
+  width:300px;
+}
